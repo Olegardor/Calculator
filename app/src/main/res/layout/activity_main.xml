@@ -244,12 +244,4 @@
             tools:ignore="MissingConstraints" />
     </LinearLayout>
 
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="138dp"
-        tools:layout_editor_absoluteY="755dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
