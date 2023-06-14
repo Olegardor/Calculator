@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
     Button button7;
     Button button8;
     Button button9;
-    Button button10;
 
     @Override
     protected void onCreate (Bundle savedInstanceState) {
